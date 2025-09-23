@@ -1,0 +1,527 @@
+@media screen and (min-width:768px){
+    .nav-menu--open{
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width:2600px){
+    .row{
+        width: 60%;
+      
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width:1400px){
+    .about__title{
+        font-size: 1.2rem;
+    }
+    
+    .about__description{
+        font-size: 2.5rem;
+    }
+
+    .agent-rect__link{
+   
+        padding: 0.3rem 0.5rem;
+    }
+
+  
+
+     
+     
+    
+  
+    
+   
+
+}
+
+@media screen and (max-width:1200px){
+
+    .hero__details{
+        flex-direction: column-reverse;
+    }
+
+    .hero{
+        height: auto;
+ 
+    }
+
+   
+
+    .hero__image img{
+        width: 27rem;
+    }
+
+    .raiting{
+        left: 18rem;
+    }
+
+    .card{
+        margin-left: 6rem;
+    }
+
+    .hero__title{
+        font-size: 3.9rem;
+    }
+    .hero__content{
+        text-align: center;
+    }
+ 
+    .search-box{
+        max-width: 60rem;
+        padding: 1.5rem 1rem;
+        left: 27rem;
+        margin-top: 0;
+    
+    }
+
+    .about{
+        flex-direction: column;
+    }
+
+ 
+
+    .about__description{
+        font-size: 2.3rem;
+
+    }
+
+    .about__content{
+       text-align: center;
+       margin-top: 5rem;
+      
+    }
+
+    .about__img{
+        width: 76%;
+    }
+   
+  .about__modern,
+  .about__secure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+  .agent-rect__link{
+    padding: 0.4rem 0.2rem ;
+    margin-left: 8rem;
+    margin-top: 2rem;
+  }
+
+  .agent-rect{
+    flex-direction: column;
+  }
+
+  .agent-rect__content{
+   text-align: center;
+  }
+
+  .facilities-sec{
+    flex-direction: column;
+  }
+
+  .facilities-sec__cover img{
+    width: 70%;
+  }
+
+  .facilities-sec__content{
+   
+    width: 50%;
+  }
+
+  .facilities-sec__title{
+  padding-left: 10rem;
+  }
+
+  
+ 
+
+
+  
+}
+
+
+@media screen and (max-width:992px){
+    .hero__content{
+        text-align: center;
+    }
+    
+    .hero__caption{
+        text-align: center;
+    }
+
+    .search-box{
+       left: 15rem;
+    }
+
+   
+
+    .national__title{
+     font-size: 1rem;
+    }
+
+    .national__img{
+        width: 3rem;
+    }
+    .about{
+        padding: 0 22rem;
+     }
+    
+
+    .about__img{
+        width: 70%;
+    }
+
+    .agent-rect__link{
+        margin-left: 2rem;
+    }
+
+    .facilities-sec__title{
+        padding-left: 6rem;
+    }
+
+    .facilities-sec__description{
+    width: 23rem;
+    padding-left: 3rem;
+    font-size: 2.8rem;
+    }
+
+    .footer-sec{
+        padding: 4rem;
+        display: inline-block;
+    }
+    
+    .footer-sec__houzing svg{
+        display: block;
+        margin-bottom: 2rem;
+    }
+    
+    .footer-sec .footer-sec__houzing p{
+        max-width: 70%;
+    }
+    
+    .footer-sec__houzing,.footer-sec__Quick, .footer-sec__services{
+        border-bottom: solid 1px #fff;
+        margin-bottom: 3rem;
+        padding-bottom: 3rem;
+    }
+    
+
+    
+}
+
+
+@media screen and (max-width:768px){
+    .nav__search{
+        display: none;
+    }
+    
+    .nav-menu .nav__search{
+        display: flex;
+    }
+    
+
+   .hero__content{
+    max-width: 50rem;
+    text-align: center;
+   }
+
+   .hero__title{
+    font-size: 2.4rem;
+   }
+
+ .search-box{
+    left: 25rem;
+    flex-direction: column;
+    max-width: 25rem;
+    margin: auto;
+    position: static;
+ }
+
+ .about{
+    padding: 0 15rem;
+ }
+
+ .about__details{
+    flex-wrap: wrap;
+ }
+
+ .national{
+    bottom: -7rem;
+    left: -1rem;
+ }
+
+ .partner-logo{
+    flex-direction: column;
+ }
+
+ .partner-logo img{
+    margin-bottom: 2rem;
+ }
+
+ .facilities-sec__description{
+    font-size: 2.4rem;
+    padding-left: 4rem;
+ }
+
+ .facilities-sec__caption{
+    padding-left: 4rem;
+ }
+
+ .facilities-sec__list{
+  display: block;
+  padding-left: 4rem;
+ }
+
+ .facilities-sec__read{
+    padding-left: 4rem;
+ }
+
+ .blogs-newsletter{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+@media screen and (max-width:600px){
+    .search-box{
+        flex-direction: column;
+        width: 100%;
+        max-width: 20rem;
+    }
+
+   
+  
+
+}
+
+
+@media screen and (max-width:576px){
+    
+    .menu{
+        display: none;
+    }
+   .nav__btn{
+    display: flex;
+   }
+
+   .hero__title{
+    font-size: 1.5rem;
+   }
+
+   .hero__image img{
+    width: 20rem;
+   }
+
+   .card{
+    max-width: 13rem;
+    margin-left: 4rem;
+    bottom: -7rem;
+   }
+
+   .raiting{
+    left: 14rem;
+   }
+
+   .hero__make-btn{
+    padding: 0.8rem 1.8rem;
+   }
+
+   .about{
+    padding: 0 10rem;
+   }
+
+   .national{
+    padding: 0.1rem 2.4rem ;
+   }
+
+   .facilities-sec__cover img{
+    width: 69%;
+   }
+
+   .facilities-sec__content{
+    width: 65%;
+   }
+
+ 
+ 
+
+
+  
+   
+}
+
+
+
+
+
+/* MRN */
+@media only screen and (max-width: 500px){ 
+	.hero {
+	    padding: 8rem 1rem;
+	}
+	.hero__content {
+		max-width: 60rem;
+		padding: 10rem 2rem 4rem 2rem;
+	}
+	.search-box {
+		margin:auto;
+		position: static;
+		gap: 1rem;
+	}
+}
+
+
+@media screen and (max-width:510px){
+.hero__make-btn{
+    padding: 0.7rem 1rem;
+}
+
+.search-box{
+    left: 15rem;
+    max-width: 18rem;
+}
+
+.about{
+    padding: 0 4rem;
+   
+}
+
+.about__content{
+    align-items: center;
+    margin-top: 7rem;
+}
+
+.national{
+    padding: 0.2rem 2.7rem;
+}
+
+.facilities{
+    padding: 0;
+}
+
+.facilities-sec__content{
+    width: 100%;
+    padding: 0 2rem;
+}
+
+.facilities-sec__cover img{
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.facilities-sec__description{
+    width: 100%;
+    padding-left: 3rem;
+}
+
+.facilities-sec__title{
+    padding-left: 3rem;
+}
+
+.blogs-newsletter__form input{
+    width: auto;
+}
+
+.footer-sec{
+    padding: 4rem;
+    display: inline-block;
+}
+
+.footer-sec__houzing svg{
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.footer-sec .footer-sec__houzing p{
+    max-width: 100%;
+}
+
+.footer-sec__houzing,.footer-sec__Quick, .footer-sec__services{
+    border-bottom: solid 1px #fff;
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+
+
+
+}
+
+@media screen and (max-width:410px){
+
+    .hero__title{
+        font-size: 1rem;
+    }
+
+    .search-box{
+        left: 12rem;
+    }
+
+    .about{
+        padding: 0 2rem;
+    }
+
+   
+
+    .facilities-sec__cover img{
+        width: 100%;
+    }
+
+   
+
+    .blogs-newsletter__form{
+        flex-wrap: wrap;
+       text-align: center;
+
+    }
+
+    .blogs-newsletter__form button{
+        margin-top: 2rem;
+    }
+
+   
+    
+}
+
+@media screen and (max-width:350px){
+    .search-box{
+        left: 10rem;
+    }
+
+    .about{
+        padding: 0 1rem;
+    }
+
+    
+}
+
