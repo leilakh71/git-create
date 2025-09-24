@@ -14,3 +14,4 @@ navBtn.addEventListener('click' , ()=>{
         navOpen = true
     }
 })
+
