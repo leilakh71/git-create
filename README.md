@@ -19,7 +19,10 @@ ___
 ```
 
 ___
+
+
 ## Default Usage:
+
 ``` javascript
 
 swal('Type Something' , {
@@ -31,7 +34,7 @@ swal('Type Something' , {
 ```
 
 ___
-## Lists : 
+## Lists:
 Ordered:
 
 1. Javascript
@@ -39,3 +42,13 @@ Ordered:
 3. Css
 4. Bootstarp
 
+___
+
+## Project Links
+
+[Git Create Project](https://github.com/leilakh71/git-create)
+___
+
+## Images
+
+![Git-Image](https://octodex.github.com/images/minion.png)
